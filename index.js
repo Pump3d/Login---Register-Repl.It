@@ -9,8 +9,6 @@ async function check(args) {
 	return string
 }
 
-//bruh()
-
 async function register() {
 	const user = prompt("Username: ").trim();
 	const pass = prompt("Password: ").trim();
